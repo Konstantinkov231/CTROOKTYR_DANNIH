@@ -3,7 +3,7 @@
 > лабораторные по структурам данных
 РЕЗУЛЬТАТ РАБОТЫ ПРОГРАММЫ
 <p align="center">
-  <img src="./CTROOKT_DANNIH/screen/scr.png alt="Скриншот программы" width="700">
+  <img src="./screen/scr.png alt="Скриншот программы" width="700">
 </p>
 
 
