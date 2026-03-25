@@ -1,0 +1,15 @@
+/Users/kostakovacev/PycharmProjects/Labs1.2/CTROOKT_DANNIH/bin/Debug/net10.0/Labs1.2
+/Users/kostakovacev/PycharmProjects/Labs1.2/CTROOKT_DANNIH/bin/Debug/net10.0/Labs1.2.deps.json
+/Users/kostakovacev/PycharmProjects/Labs1.2/CTROOKT_DANNIH/bin/Debug/net10.0/Labs1.2.runtimeconfig.json
+/Users/kostakovacev/PycharmProjects/Labs1.2/CTROOKT_DANNIH/bin/Debug/net10.0/Labs1.2.dll
+/Users/kostakovacev/PycharmProjects/Labs1.2/CTROOKT_DANNIH/bin/Debug/net10.0/Labs1.2.pdb
+/Users/kostakovacev/PycharmProjects/Labs1.2/CTROOKT_DANNIH/obj/Debug/net10.0/Labs1.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kostakovacev/PycharmProjects/Labs1.2/CTROOKT_DANNIH/obj/Debug/net10.0/Labs1.2.AssemblyInfoInputs.cache
+/Users/kostakovacev/PycharmProjects/Labs1.2/CTROOKT_DANNIH/obj/Debug/net10.0/Labs1.2.AssemblyInfo.cs
+/Users/kostakovacev/PycharmProjects/Labs1.2/CTROOKT_DANNIH/obj/Debug/net10.0/Labs1.2.csproj.CoreCompileInputs.cache
+/Users/kostakovacev/PycharmProjects/Labs1.2/CTROOKT_DANNIH/obj/Debug/net10.0/Labs1.2.sourcelink.json
+/Users/kostakovacev/PycharmProjects/Labs1.2/CTROOKT_DANNIH/obj/Debug/net10.0/Labs1.2.dll
+/Users/kostakovacev/PycharmProjects/Labs1.2/CTROOKT_DANNIH/obj/Debug/net10.0/refint/Labs1.2.dll
+/Users/kostakovacev/PycharmProjects/Labs1.2/CTROOKT_DANNIH/obj/Debug/net10.0/Labs1.2.pdb
+/Users/kostakovacev/PycharmProjects/Labs1.2/CTROOKT_DANNIH/obj/Debug/net10.0/Labs1.2.genruntimeconfig.cache
+/Users/kostakovacev/PycharmProjects/Labs1.2/CTROOKT_DANNIH/obj/Debug/net10.0/ref/Labs1.2.dll
