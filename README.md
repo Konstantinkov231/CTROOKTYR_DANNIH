@@ -1,9 +1,9 @@
 # CTROOKT_DANNIH
 
-> лабораторные по структурам данных
+> лабораторные по структурам данных\n
 РЕЗУЛЬТАТ РАБОТЫ ПРОГРАММЫ
 <p align="center">
-  <img src="./CTROOKT_DANNIH/screen/screen.png alt="Скриншот программы" width="700">
+  <img src="https://raw.githubusercontent.com/Konstantinkov231/CTROOKTYR_DANNIH/main/CTROOKT_DANNIH/screen/screen.png" alt="Скриншот программы" width="700">
 </p>
 
 
